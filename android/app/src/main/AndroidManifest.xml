@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="skull_king"
+        android:label="Skull King Marcador"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
